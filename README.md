@@ -9,3 +9,7 @@
 <a href="https://www.linkedin.com/in/sourav-kumar-79715725a/" style="text-decoration: none; margin: 0rem 1rem;">LinkedIn</a>
 <a href="https://www.instagram.com/the.souravkumar/" style="text-decoration: none;">Instagram</a>
 </p>
+<p>
+<h3>Technologies I'm familiar with:</h3>
+will be adding soon..
+</p>
