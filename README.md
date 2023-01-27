@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋️, It's Sourav!</h1>
 <h3 align="center">A Self-Taught Software Engineer From Odisha, India</h3>
 
-- 🌱 I'm currently learning **Javascript**
+- 🌱 I'm currently learning **Full-Stack Web Development**
 - 📝 I write articles on [https://thesouravkumar.hashnode.dev/](https://thesouravkumar.hashnode.dev/)
 - 💬 Ask me about anything
 - 📫 How to reach me **souravsemail2001@gmail.com**
