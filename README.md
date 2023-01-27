@@ -3,6 +3,7 @@
 
 - 🌱 I'm currently learning **Javascript**
 - 📝 I write articles on [https://thesouravkumar.hashnode.dev/](https://thesouravkumar.hashnode.dev/)
+- 💬 Ask me about anything
 - 📫 How to reach me **souravsemail2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
