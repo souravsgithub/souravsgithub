@@ -1,5 +1,5 @@
-<h1 style="text-align: center; font-weight: bold;">Hey👋️, It's Sourav!</h1>
-<p style="text-align:center; font-weight: bold;">A Self-Taught Software Engineer From Odisha, India</p>
+<h1 align="center">Hey👋️, It's Sourav!</h1>
+<p align="center">A Self-Taught Software Engineer From Odisha, India</p>
 
 - 🌱 I'm currently learning **Javascript**
 
