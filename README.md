@@ -2,6 +2,8 @@
 <h3 align="center">A Self-Taught Software Engineer From Odisha, India</h3>
 
 - 🌱 I'm currently learning **Javascript**
+- 📝 I write articles on [https://thesouravkumar.hashnode.dev/](https://thesouravkumar.hashnode.dev/)
+- 📫 How to reach me **souravsemail2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
