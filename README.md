@@ -11,5 +11,8 @@
 </p>
 <p>
 <h3>Technologies I'm familiar with:</h3>
-will be adding soon..
+<img src="./images-used/html.png" width="40px" align="center">
+<img src="./images-used/css-3.png" width="40px" align="center">
+<img src="./images-used/js.png" width="40px" align="center">
+<img src="./images-used/docker.png" width="40px" align="center">
 </p>
