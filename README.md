@@ -11,13 +11,11 @@
 </p>
 <p>
 <h3>Technologies I'm familiar with:</h3>
-<<<<<<< HEAD
 <img src="./images-used/html.png" width="40px" align="center">
 <img src="./images-used/css-3.png" width="40px" align="center">
 <img src="./images-used/js.png" width="40px" align="center">
 <img src="./images-used/docker.png" width="40px" align="center">
 </p>
-=======
-will be adding soon..
-</p>
->>>>>>> 8e0a03479bca50c50b037ae80393986c1977bb22
+
+
+
