@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋️, It's Sourav!</h1>
+<h1 align="center">Heyo<img src="./images-used/wave_hello.gif" width="35px">, It's Sourav!</h1>
 <h3 align="center">A Self-Taught Software Engineer From Odisha, India</h3>
 
 - 🌱 I'm currently learning **Full-Stack Web Development**
