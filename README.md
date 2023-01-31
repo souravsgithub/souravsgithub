@@ -19,6 +19,7 @@
   <img src="./images-used/js.png" width="40px" align="center">
   <img src="./images-used/java.png" width="40px" align="center">
   <img src="./images-used/docker.png" width="40px" align="center">
+  <img src="./images-used/kubernetes.png" width="40px" align="center">
 </p>
 
 
