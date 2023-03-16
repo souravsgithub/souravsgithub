@@ -16,6 +16,7 @@
 <p>
   <img src="./images-used/html.png" width="40px" align="center">
   <img src="./images-used/css-3.png" width="40px" align="center">
+  <img src="./images-used/bootstrap.png" width="40px" align="center">
   <img src="./images-used/js.png" width="40px" align="center">
   <img src="./images-used/java.png" width="40px" align="center">
   <img src="./images-used/docker.png" width="40px" align="center">
