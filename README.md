@@ -22,6 +22,7 @@
   <img src="./images-used/docker.png" width="40px" align="center">
   <img src="./images-used/kubernetes.png" width="40px" align="center">
   <img src="./images-used/postman.png" width="40px" align="center">
+  <img src="./images-used/node.png" width="40px" align="center">
 </p>
 
 
