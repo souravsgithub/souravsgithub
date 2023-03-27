@@ -14,15 +14,15 @@
 </p>
 <h3>Languages and Tools:</h3>
 <p>
-  <img src="./images-used/html.png" width="40px" align="center">
-  <img src="./images-used/css-3.png" width="40px" align="center">
-  <img src="./images-used/bootstrap.png" width="40px" align="center">
-  <img src="./images-used/js.png" width="40px" align="center">
-  <img src="./images-used/java.png" width="40px" align="center">
-  <img src="./images-used/docker.png" width="40px" align="center">
-  <img src="./images-used/kubernetes.png" width="40px" align="center">
-  <img src="./images-used/postman.png" width="40px" align="center">
-  <img src="./images-used/node.png" width="60px" align="center">
+  <a href="https://www.w3schools.com/html/" target="_blamk"><img src="./images-used/html.png" width="40px" align="center"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="./images-used/css-3.png" width="40px" align="center"></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="./images-used/bootstrap.png" width="40px" align="center"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./images-used/js.png" width="40px" align="center"></a>
+  <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"><img src="./images-used/java.png" width="40px" align="center"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="./images-used/docker.png" width="40px" align="center"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="./images-used/kubernetes.png" width="40px" align="center"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="./images-used/postman.png" width="40px" align="center"></a>
+  <a href="https://nodejs.org/en/docs" target="_blank"><img src="./images-used/node.png" width="60px" align="center"></a>
 </p>
 
 
