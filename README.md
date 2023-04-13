@@ -19,6 +19,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="./images-used/bootstrap.png" width="40px" align="center"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./images-used/js.png" width="40px" align="center"></a>
   <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"><img src="./images-used/java.png" width="40px" align="center"></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="./images-used/python.png" width="40px" align="center"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="./images-used/docker.png" width="40px" align="center"></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="./images-used/kubernetes.png" width="40px" align="center"></a>
   <a href="https://www.postman.com/" target="_blank"><img src="./images-used/postman.png" width="40px" align="center"></a>
